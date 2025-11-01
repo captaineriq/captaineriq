@@ -10,7 +10,3 @@ I strive to build systems that are simple, scalable, and easy to maintain and up
 
 🔭 Currently working as a Game Developer at **Enchanted Craften** (A Minecraft Bedrock Server).  
 ⚡ Fun fact: I started programming at the age of 15, trying to build my own Minecraft server!
-
-## 📫 Get in touch
-- Discord: `craft_cube_n`
-
